@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktodolist"]=self["webpackChunktodolist"]||[]).push([[443],{5830:function(t,e,n){n.r(e),n.d(e,{default:function(){return i}});var s=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},u=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("h1",[t._v("This is an about page")])])}],l=n(1001),a={},r=(0,l.Z)(a,s,u,!1,null,null,null),i=r.exports}}]);
+//# sourceMappingURL=about-legacy.21f82b81.js.map
